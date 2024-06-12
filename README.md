@@ -31,7 +31,8 @@ Situation matrimoniale : Célibataire
  	Du 30 Mai à Nos Jours : Assistant aux Ressources humaines de L’université Nongo Conakry (UNC) 
  	Du 07 Mars 2022 au 28 mai 2022 : Responsable Laboratoire numérique à Université Nongo Conakry (UNC)
  	Du 03 Juillet 2019 au 28 Avril 2022 : Gérant d’un cyber à Nongo 
- 	DU 02 Avril 2019 au 02 juin 2019 : Stage aux moulins d’Afrique (LMA) Quartier Sonfonia, Zone Industrielle, Commune de Matoto (Mémoire de soutenance pour l’obtention de la licence professionnelle).
+ 	DU 02 Avril 2019 au 02 juin 2019 : Stage aux moulins d’Afrique (LMA) Quartier Sonfonia, Zone Industrielle
+    Commune de Matoto (Mémoire de soutenance pour l’obtention de la licence professionnelle).
 ## Compétences
  	Installation Caméra
  	Maintenance
