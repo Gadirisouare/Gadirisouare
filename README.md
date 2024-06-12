@@ -3,7 +3,7 @@
 
 Nationalité : Guinéenne
 Situation matrimoniale : Célibataire
-	## Etudes Académiques 
+## Etudes Académiques 
 ## ETUDES SUPERIEURES
  	Décembre 2021 à nos jours : Master en Sécurité Réseaux Informatique à L’Université Nongo Conakry (UNC)
  	2015-2019 : Université Nongo Conakry (UNC)
